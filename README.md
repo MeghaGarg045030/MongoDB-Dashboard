@@ -18,6 +18,8 @@ By identifying key drivers contributing to churn, such as service dissatisfactio
 
 #### DATASET : TELECOM CUSTOMERS CHURN 
 
+<a href="https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics">Dataset Link</a>
+
 ![image](https://github.com/user-attachments/assets/eb382ba0-9d45-4a6f-b991-a90c229046bc)
 
 
