@@ -1,5 +1,7 @@
 ## MONGODB-DASHBOARD
 
+## TELECOM CUSTOMER CHURN ANALYSIS
+
 #### INTRODUCTION
 
 The telecom customer churn dataset used in this project includes comprehensive information on 7,043 customers from a California-based telecom company in Q2 2022. It is specifically structured to analyse customer attrition (churn) and containing key metrics like customer tenure, monthly charges, total revenue, and churn status, along with demographic insights like location (city, geo points), gender, age, and subscribed offers.
